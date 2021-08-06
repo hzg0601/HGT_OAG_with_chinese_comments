@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32449b38-c749-44dc-911e-0f13e7b33ac0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OAG" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1opVDnFmHIsqXJVN2gUPsn2BJhR" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codes" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myIpythonEnabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\huangzg28153\pyHGT-master\OAG" />
+      <recent name="C:\Users\huangzg28153\pyHGT-master\OAG\pyHGT" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\huangzg28153\pyHGT-master\OAG\data\oag_raw" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train_paper_venue_single_full">
+    <configuration name="SubgraphToTorch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OAG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyHGT" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyHGT/SubgraphToTorch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_paper_field" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OAG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_paper_field.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_paper_field_my_single" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OAG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_paper_field_my_single.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_paper_venue_my_single" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OAG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_paper_venue_my_single.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_paper_venue_single_full" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OAG" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_paper_venue_single_full.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_paper_field_my_single" />
+      <item itemvalue="Python.train_paper_venue_my_single" />
+      <item itemvalue="Python.SubgraphToTorch" />
+      <item itemvalue="Python.train_paper_field" />
+      <item itemvalue="Python.train_paper_venue_single_full" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_paper_venue_single_full" />
+        <item itemvalue="Python.train_paper_venue_single_full" />
+        <item itemvalue="Python.train_paper_venue_single_full" />
+        <item itemvalue="Python.SubgraphToTorch" />
+        <item itemvalue="Python.SubgraphToTorch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32449b38-c749-44dc-911e-0f13e7b33ac0" name="Default Changelist" comment="" />
+      <created>1613983401090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613983401090</updated>
+      <workItem from="1613983416838" duration="705000" />
+      <workItem from="1613984138194" duration="2326000" />
+      <workItem from="1613993117024" duration="6576000" />
+      <workItem from="1614001507996" duration="5271000" />
+      <workItem from="1614065550759" duration="4423000" />
+      <workItem from="1614086888643" duration="1297000" />
+      <workItem from="1614089260373" duration="1454000" />
+      <workItem from="1614090795857" duration="1596000" />
+      <workItem from="1614129950905" duration="9918000" />
+      <workItem from="1614167242262" duration="6265000" />
+      <workItem from="1614215359345" duration="20956000" />
+      <workItem from="1614307839506" duration="752000" />
+      <workItem from="1614321211511" duration="15929000" />
+      <workItem from="1614426461087" duration="39000" />
+      <workItem from="1614427119463" duration="8939000" />
+      <workItem from="1614579916157" duration="1243000" />
+      <workItem from="1614594200357" duration="7919000" />
+      <workItem from="1614653122204" duration="25335000" />
+      <workItem from="1614734740214" duration="20502000" />
+      <workItem from="1614820439742" duration="2353000" />
+      <workItem from="1614844373271" duration="2439000" />
+      <workItem from="1614923613898" duration="77000" />
+      <workItem from="1615537036054" duration="807000" />
+      <workItem from="1615771159551" duration="2564000" />
+      <workItem from="1615876926959" duration="27311000" />
+      <workItem from="1616046430460" duration="38723000" />
+      <workItem from="1616310248652" duration="16436000" />
+      <workItem from="1616403511404" duration="459000" />
+      <workItem from="1616403999140" duration="818000" />
+      <workItem from="1616405097032" duration="351000" />
+      <workItem from="1616405518448" duration="4866000" />
+      <workItem from="1616410451542" duration="738000" />
+      <workItem from="1616412189789" duration="39294000" />
+      <workItem from="1616564339212" duration="2443000" />
+      <workItem from="1616567634058" duration="17286000" />
+      <workItem from="1616632664665" duration="59000" />
+      <workItem from="1616635125805" duration="3497000" />
+      <workItem from="1616638959109" duration="1591000" />
+      <workItem from="1616642397907" duration="3222000" />
+      <workItem from="1616658129773" duration="2002000" />
+      <workItem from="1616720568733" duration="2129000" />
+      <workItem from="1616723241791" duration="6158000" />
+      <workItem from="1616729582567" duration="5939000" />
+      <workItem from="1616747548471" duration="3545000" />
+      <workItem from="1616758367711" duration="2203000" />
+      <workItem from="1616813037228" duration="14038000" />
+      <workItem from="1616844234442" duration="15631000" />
+      <workItem from="1616994540152" duration="2245000" />
+      <workItem from="1617190378569" duration="11000" />
+      <workItem from="1622774936810" duration="1539000" />
+      <workItem from="1624354874967" duration="2524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/data.py</url>
+          <line>347</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/SubgraphToTorch.py</url>
+          <line>391</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/data.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/data.py</url>
+          <line>378</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/SubgraphToTorch.py</url>
+          <line>412</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pyHGT/SubgraphToTorch.py</url>
+          <line>438</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;49fbfdfe-af16-48eb-83d9-4c0bbd7316fa&gt;/research/pyHGT_OAG/codes/pyHGT/SubgraphToTorch.py</url>
+          <line>436</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OAG$train_step.coverage" NAME="train_step Coverage Results" MODIFIED="1614764685384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$train_paper_field_my_single.coverage" NAME="train_paper_field_my_single Coverage Results" MODIFIED="1616728154697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$DESampleGenerate.coverage" NAME="DESampleGenerate Coverage Results" MODIFIED="1614600253220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$train_paper_field.coverage" NAME="train_paper_field Coverage Results" MODIFIED="1616637694391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$data.coverage" NAME="data Coverage Results" MODIFIED="1615877128892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyHGT" />
+    <SUITE FILE_PATH="coverage/OAG$preprocess_OAG.coverage" NAME="preprocess_OAG Coverage Results" MODIFIED="1614154882093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$SubgraphToTorch.coverage" NAME="SubgraphToTorch Coverage Results" MODIFIED="1616639247062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyHGT" />
+    <SUITE FILE_PATH="coverage/OAG$train_paper_venue_my_single.coverage" NAME="train_paper_venue_my_single Coverage Results" MODIFIED="1616635886236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OAG$train_paper_venue_single_full.coverage" NAME="train_paper_venue_single_full Coverage Results" MODIFIED="1616818770722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
